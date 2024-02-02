@@ -40,7 +40,7 @@ h2 {
 
 .product-item button {
   width: 100%; /* Make the button fill the width of the product item */
-  position: absolute; /* Position the button absolutely */
+  position: relative; /* Position the button absolutely */
   bottom: 10px; /* Adjust the distance from the bottom */
   left: 0; /* Position the button to the left */
 }
