@@ -29,6 +29,7 @@ h2 {
   margin: 10px;
   text-align: center;
   background-color: #fff; /* White background color for product items */
+  position: relative; /* Add position relative */
 }
 
 .product-item img {
@@ -38,4 +39,6 @@ h2 {
 
 .product-item button {
   width: 100%; /* Make the button fill the width of the product item */
+  position: absolute; /* Add position absolute */
+  bottom: 10px; /* Adjust the distance from the bottom */
 }
